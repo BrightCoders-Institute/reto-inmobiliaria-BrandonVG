@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "The Willows",
+    "address": "3517 W. Gray St. Utica",
+    "rooms": "3",
+    "bathrooms": "2",
+    "size": "230",
+    "price": "440",
+    "stars": "4.7",
+    "like": false,
+    "img": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cozy Cottage",
+    "address": "1234 Main St. Anytown",
+    "rooms": "2",
+    "bathrooms": "1",
+    "size": "120",
+    "price": "200",
+    "stars": "4.2",
+    "like": true,
+    "img": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Luxury Villa",
+    "address": "9876 Elm St. Rivertown",
+    "rooms": "5",
+    "bathrooms": "3",
+    "size": "400",
+    "price": "800",
+    "stars": "4.9",
+    "like": true,
+    "img": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Seaside Retreat",
+    "address": "5678 Beach Blvd. Oceanville",
+    "rooms": "4",
+    "bathrooms": "2.5",
+    "size": "300",
+    "price": "600",
+    "stars": "4.5",
+    "like": false,
+    "img": "https://img10.naventcdn.com/avisos/18/00/66/32/80/15/720x532/359290663.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mountain Cabin",
+    "address": "2468 Pine St. Summitville",
+    "rooms": "2",
+    "bathrooms": "1",
+    "size": "150",
+    "price": "300",
+    "stars": "4.3",
+    "like": false,
+    "img": "https://images.adsttc.com/media/images/623c/4fa0/3e4b/3145/3000/001b/large_jpg/_d_ambrosio_07._copy.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Urban Loft",
+    "address": "6789 Oak St. Cityville",
+    "rooms": "1",
+    "bathrooms": "1",
+    "size": "80",
+    "price": "150",
+    "stars": "3.9",
+    "like": true,
+    "img": "https://i.blogs.es/c68014/casa-3d/840_560.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Rustic Farmhouse",
+    "address": "1357 Maple Rd. Countryside",
+    "rooms": "4",
+    "bathrooms": "3",
+    "size": "320",
+    "price": "550",
+    "stars": "4.6",
+    "like": true,
+    "img": "https://propiedadescancun.mx/wp-content/uploads/2019/09/fachadaR_casa_residencial_lagos_del_sol_cancun_ceibey5-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Modern Apartment",
+    "address": "7890 Elm St. Metropolitan",
+    "rooms": "2",
+    "bathrooms": "2",
+    "size": "180",
+    "price": "400",
+    "stars": "4.4",
+    "like": false,
+    "img": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Countryside Retreat",
+    "address": "2468 Willow Ln. Meadows",
+    "rooms": "3",
+    "bathrooms": "2",
+    "size": "250",
+    "price": "500",
+    "stars": "4.8",
+    "like": true,
+    "img": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Charming Bungalow",
+    "address": "1012 Oak St. Riverside",
+    "rooms": "2",
+    "bathrooms": "1.5",
+    "size": "180",
+    "price": "350",
+    "stars": "4.2",
+    "like": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/George_L._Burlingame_House%2C_1238_Harvard_St%2C_Houston_%28HDR%29.jpg/1200px-George_L._Burlingame_House%2C_1238_Harvard_St%2C_Houston_%28HDR%29.jpg"
+  }
+]
