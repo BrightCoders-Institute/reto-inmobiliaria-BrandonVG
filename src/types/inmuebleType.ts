@@ -1,4 +1,4 @@
-export type Inmueble ={
+export type Inmueble = {
   id: number;
   name: string;
   address: string;
@@ -9,4 +9,4 @@ export type Inmueble ={
   stars: string;
   like: boolean;
   img: string;
-}
+};

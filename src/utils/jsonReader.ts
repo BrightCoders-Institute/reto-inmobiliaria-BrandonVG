@@ -1,9 +1,8 @@
-import { Inmueble } from "../types/inmuebleType";
+import {Inmueble} from '../types/InmuebleType';
 
-class JsonReader{
-
-  static jsonInmueblesToArray(data: any){
-    const inmueblesArray: Inmueble[] = data.map((item: any) =>{
+class JsonReader {
+  static jsonInmueblesToArray(data: any) {
+    const inmueblesArray: Inmueble[] = data.map((item: any) => {
       const inmueble: Inmueble = {
         id: item.id,
         name: item.name,
@@ -20,7 +19,6 @@ class JsonReader{
     });
     return inmueblesArray;
   }
-
 }
 
 export default JsonReader;
