@@ -1,15 +1,10 @@
 import React from 'react';
 import {Inmueble} from '../types/InmuebleType';
-import {
-  ImageBackground,
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  View,
-} from 'react-native';
+import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import Octicons from 'react-native-vector-icons/Octicons';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
+import ImageCard from './ImageCard';
 
 type itemCardProps = {
   inmueble: Inmueble;
@@ -19,12 +14,9 @@ const ItemCard = ({inmueble}: itemCardProps) => {
   return (
     <View style={styles.container}>
       <View style={styles.rowMargin}>
-        <ImageBackground source={{uri: inmueble.img}} style={styles.img}>
-          <Text>hola</Text>
-        </ImageBackground>
+        <ImageCard img={inmueble.img} stars={inmueble.stars} />
         <View style={styles.col}>
           <Text style={styles.textTitle}>{inmueble.name}</Text>
-
           <View style={styles.row}>
             <Octicons
               style={styles.icon}
@@ -34,7 +26,6 @@ const ItemCard = ({inmueble}: itemCardProps) => {
             />
             <Text style={styles.textAddress}>{inmueble.address}</Text>
           </View>
-
           <View style={styles.row}>
             <Ionicons
               style={styles.icon}
@@ -64,7 +55,6 @@ const ItemCard = ({inmueble}: itemCardProps) => {
               {inmueble.size} ft²
             </Text>
           </View>
-
           <View style={[styles.row, styles.spaceBetween]}>
             <Text style={[styles.textBold, styles.textPrice]}>
               ${inmueble.price}/m
@@ -102,13 +92,6 @@ const styles = StyleSheet.create({
     flex: 2,
     marginLeft: 20,
     justifyContent: 'space-between',
-  },
-  img: {
-    flex: 1,
-    justifyContent: 'flex-end',
-    alignItems: 'center',
-    borderRadius: 10,
-    overflow: 'hidden',
   },
   textTitle: {
     fontSize: 20,
