@@ -75,12 +75,12 @@ const ItemCard = ({inmueble}: itemCardProps) => {
 
 const styles = StyleSheet.create({
   container: {
-    alignSelf:'center',
+    alignSelf: 'center',
     borderRadius: 16,
     width: '90%',
     height: 140,
     backgroundColor: '#F5FDFF',
-    marginBottom:20,
+    marginBottom: 20,
   },
   row: {
     flexDirection: 'row',
