@@ -14,6 +14,5 @@ test('snapshot', () => {
 test('Like button pressed', () => {
   const likeButton = tree.root.findByProps({testID: 'likeButton'}).props;
   act(() => likeButton.onPress());
-  const iconLike = tree.root.findByProps({testID: 'iconLike'}).props;
-  expect(iconLike.color).toBe('red');
+  expect(likeButton.style[1].backgroundColor).toBe('red');
 });

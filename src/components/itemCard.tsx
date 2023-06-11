@@ -61,14 +61,13 @@ const ItemCard = ({inmueble}: itemCardProps) => {
               ${inmueble.price}/m
             </Text>
             <TouchableOpacity
-              style={styles.likeBtn}
+              style={[styles.likeBtn, {backgroundColor: like ? '#00b074' : 'red'}]}
               onPress={() => setLike(!like)}
               testID="likeButton">
               <MaterialCommunityIcons
                 name="cards-heart"
-                testID="iconLike"
                 size={15}
-                color={like ? 'red' : 'white'}
+                color='white'
               />
             </TouchableOpacity>
           </View>
@@ -131,7 +130,6 @@ const styles = StyleSheet.create({
     width: 25,
     marginRight: 15,
     borderRadius: 20,
-    backgroundColor: '#00b074',
   },
   spaceBetween: {
     justifyContent: 'space-between',

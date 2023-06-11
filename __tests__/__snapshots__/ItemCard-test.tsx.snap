@@ -354,7 +354,7 @@ exports[`snapshot 1`] = `
             {
               "alignItems": "center",
               "alignSelf": "flex-end",
-              "backgroundColor": "#00b074",
+              "backgroundColor": "red",
               "borderRadius": 20,
               "height": 25,
               "justifyContent": "center",
@@ -383,7 +383,6 @@ exports[`snapshot 1`] = `
                 {},
               ]
             }
-            testID="iconLike"
           >
             󰣐
           </Text>
