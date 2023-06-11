@@ -1,0 +1,4118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<RCTScrollView
+  data={
+    [
+      {
+        "address": "3517 W. Gray St. Utica",
+        "bathrooms": "2",
+        "id": 1,
+        "img": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg",
+        "like": false,
+        "name": "The Willows",
+        "price": "440",
+        "rooms": "3",
+        "size": "230",
+        "stars": "4.7",
+      },
+      {
+        "address": "1234 Main St. Anytown",
+        "bathrooms": "1",
+        "id": 2,
+        "img": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg",
+        "like": true,
+        "name": "Cozy Cottage",
+        "price": "200",
+        "rooms": "2",
+        "size": "120",
+        "stars": "4.2",
+      },
+      {
+        "address": "9876 Elm St. Rivertown",
+        "bathrooms": "3",
+        "id": 3,
+        "img": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg",
+        "like": true,
+        "name": "Luxury Villa",
+        "price": "800",
+        "rooms": "5",
+        "size": "400",
+        "stars": "4.9",
+      },
+      {
+        "address": "5678 Beach Blvd. Oceanville",
+        "bathrooms": "2.5",
+        "id": 4,
+        "img": "https://img10.naventcdn.com/avisos/18/00/66/32/80/15/720x532/359290663.jpg",
+        "like": false,
+        "name": "Seaside Retreat",
+        "price": "600",
+        "rooms": "4",
+        "size": "300",
+        "stars": "4.5",
+      },
+      {
+        "address": "2468 Pine St. Summitville",
+        "bathrooms": "1",
+        "id": 5,
+        "img": "https://images.adsttc.com/media/images/623c/4fa0/3e4b/3145/3000/001b/large_jpg/_d_ambrosio_07._copy.jpg",
+        "like": false,
+        "name": "Mountain Cabin",
+        "price": "300",
+        "rooms": "2",
+        "size": "150",
+        "stars": "4.3",
+      },
+      {
+        "address": "6789 Oak St. Cityville",
+        "bathrooms": "1",
+        "id": 6,
+        "img": "https://i.blogs.es/c68014/casa-3d/840_560.jpeg",
+        "like": true,
+        "name": "Urban Loft",
+        "price": "150",
+        "rooms": "1",
+        "size": "80",
+        "stars": "3.9",
+      },
+      {
+        "address": "1357 Maple Rd. Countryside",
+        "bathrooms": "3",
+        "id": 7,
+        "img": "https://propiedadescancun.mx/wp-content/uploads/2019/09/fachadaR_casa_residencial_lagos_del_sol_cancun_ceibey5-7.jpg",
+        "like": true,
+        "name": "Rustic Farmhouse",
+        "price": "550",
+        "rooms": "4",
+        "size": "320",
+        "stars": "4.6",
+      },
+      {
+        "address": "7890 Elm St. Metropolitan",
+        "bathrooms": "2",
+        "id": 8,
+        "img": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg",
+        "like": false,
+        "name": "Modern Apartment",
+        "price": "400",
+        "rooms": "2",
+        "size": "180",
+        "stars": "4.4",
+      },
+      {
+        "address": "2468 Willow Ln. Meadows",
+        "bathrooms": "2",
+        "id": 9,
+        "img": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg",
+        "like": true,
+        "name": "Countryside Retreat",
+        "price": "500",
+        "rooms": "3",
+        "size": "250",
+        "stars": "4.8",
+      },
+      {
+        "address": "1012 Oak St. Riverside",
+        "bathrooms": "1.5",
+        "id": 10,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/George_L._Burlingame_House%2C_1238_Harvard_St%2C_Houston_%28HDR%29.jpg/1200px-George_L._Burlingame_House%2C_1238_Harvard_St%2C_Houston_%28HDR%29.jpg",
+        "like": false,
+        "name": "Charming Bungalow",
+        "price": "350",
+        "rooms": "2",
+        "size": "180",
+        "stars": "4.2",
+      },
+    ]
+  }
+  getItem={[Function]}
+  getItemCount={[Function]}
+  keyExtractor={[Function]}
+  onContentSizeChange={[Function]}
+  onLayout={[Function]}
+  onMomentumScrollBegin={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  scrollEventThrottle={50}
+  stickyHeaderIndices={[]}
+  viewabilityConfigCallbackPairs={[]}
+>
+  <View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.7
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              The Willows
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                3
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                230
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                440
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "white",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.2
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Cozy Cottage
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                1234 Main St. Anytown
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                120
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                200
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "red",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.9
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Luxury Villa
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                9876 Elm St. Rivertown
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                5
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                3
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                400
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                800
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "red",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://img10.naventcdn.com/avisos/18/00/66/32/80/15/720x532/359290663.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.5
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Seaside Retreat
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                5678 Beach Blvd. Oceanville
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                4
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2.5
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                300
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                600
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "white",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://images.adsttc.com/media/images/623c/4fa0/3e4b/3145/3000/001b/large_jpg/_d_ambrosio_07._copy.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.3
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Mountain Cabin
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                2468 Pine St. Summitville
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                150
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                300
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "white",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://i.blogs.es/c68014/casa-3d/840_560.jpeg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                3.9
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Urban Loft
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                6789 Oak St. Cityville
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                80
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                150
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "red",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://propiedadescancun.mx/wp-content/uploads/2019/09/fachadaR_casa_residencial_lagos_del_sol_cancun_ceibey5-7.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.6
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Rustic Farmhouse
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                1357 Maple Rd. Countryside
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                4
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                3
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                320
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                550
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "red",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.4
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Modern Apartment
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                7890 Elm St. Metropolitan
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                180
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                400
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "white",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.8
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Countryside Retreat
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                2468 Willow Ln. Meadows
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                3
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                250
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                500
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "red",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onFocusCapture={[Function]}
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "#F5FDFF",
+            "borderRadius": 16,
+            "height": 140,
+            "marginBottom": 20,
+            "width": "90%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "margin": 15,
+            }
+          }
+        >
+          <View
+            accessibilityIgnoresInvertColors={true}
+            style={
+              {
+                "alignItems": "center",
+                "borderRadius": 10,
+                "flex": 1,
+                "justifyContent": "flex-end",
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/George_L._Burlingame_House%2C_1238_Harvard_St%2C_Houston_%28HDR%29.jpg/1200px-George_L._Burlingame_House%2C_1238_Harvard_St%2C_Houston_%28HDR%29.jpg",
+                }
+              }
+              style={
+                [
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                  {
+                    "height": undefined,
+                    "width": undefined,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 20,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "justifyContent": "center",
+                  "margin": 5,
+                  "width": 50,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#EEBA00",
+                      "fontSize": 11,
+                    },
+                    undefined,
+                    {
+                      "fontFamily": "Fontisto",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "#856D35",
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                    "marginLeft": 1,
+                  }
+                }
+              >
+                4.2
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flex": 2,
+                "justifyContent": "space-between",
+                "marginLeft": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#151525",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Charming Bungalow
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Octicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  {
+                    "color": "gray",
+                    "fontSize": 14,
+                  }
+                }
+              >
+                1012 Oak St. Riverside
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󱠙
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                1.5
+              </Text>
+              <Text
+                allowFontScaling={false}
+                selectable={false}
+                style={
+                  [
+                    {
+                      "color": "gray",
+                      "fontSize": 20,
+                    },
+                    {
+                      "marginRight": 10,
+                    },
+                    {
+                      "fontFamily": "Material Design Icons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    {},
+                  ]
+                }
+              >
+                󰠡
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 16,
+                      "marginRight": 15,
+                    },
+                  ]
+                }
+              >
+                180
+                 ft²
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "justifyContent": "space-between",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#151525",
+                      "fontWeight": "bold",
+                    },
+                    {
+                      "fontSize": 20,
+                    },
+                  ]
+                }
+              >
+                $
+                350
+                /m
+              </Text>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "alignSelf": "flex-end",
+                    "backgroundColor": "#00b074",
+                    "borderRadius": 20,
+                    "height": 25,
+                    "justifyContent": "center",
+                    "marginRight": 15,
+                    "opacity": 1,
+                    "width": 25,
+                  }
+                }
+                testID="likeButton"
+              >
+                <Text
+                  allowFontScaling={false}
+                  selectable={false}
+                  style={
+                    [
+                      {
+                        "color": "white",
+                        "fontSize": 15,
+                      },
+                      undefined,
+                      {
+                        "fontFamily": "Material Design Icons",
+                        "fontStyle": "normal",
+                        "fontWeight": "normal",
+                      },
+                      {},
+                    ]
+                  }
+                  testID="iconLike"
+                >
+                  󰣐
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

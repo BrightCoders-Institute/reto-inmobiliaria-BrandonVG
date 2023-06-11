@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import {Inmueble} from '../types/InmuebleType';
 import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import Octicons from 'react-native-vector-icons/Octicons';
@@ -11,6 +11,7 @@ type itemCardProps = {
 };
 
 const ItemCard = ({inmueble}: itemCardProps) => {
+  const [like, setLike] = useState(inmueble.like);
   return (
     <View style={styles.container}>
       <View style={styles.rowMargin}>
@@ -59,11 +60,15 @@ const ItemCard = ({inmueble}: itemCardProps) => {
             <Text style={[styles.textBold, styles.textPrice]}>
               ${inmueble.price}/m
             </Text>
-            <TouchableOpacity style={styles.likeBtn}>
+            <TouchableOpacity
+              style={styles.likeBtn}
+              onPress={() => setLike(!like)}
+              testID="likeButton">
               <MaterialCommunityIcons
                 name="cards-heart"
+                testID="iconLike"
                 size={15}
-                color="#FFFFFF"
+                color={like ? 'red' : 'white'}
               />
             </TouchableOpacity>
           </View>

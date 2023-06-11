@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    {
+      "alignItems": "center",
+      "borderRadius": 10,
+      "flex": 1,
+      "justifyContent": "flex-end",
+      "overflow": "hidden",
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "uri": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg",
+      }
+    }
+    style={
+      [
+        {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        {
+          "height": undefined,
+          "width": undefined,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#FBEDB7",
+        "borderRadius": 20,
+        "flexDirection": "row",
+        "height": 25,
+        "justifyContent": "center",
+        "margin": 5,
+        "width": 50,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        [
+          {
+            "color": "#EEBA00",
+            "fontSize": 11,
+          },
+          undefined,
+          {
+            "fontFamily": "Fontisto",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        {
+          "color": "#856D35",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "marginLeft": 1,
+        }
+      }
+    >
+      4.4
+    </Text>
+  </View>
+</View>
+`;
