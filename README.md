@@ -4,12 +4,12 @@
 # App Inmobiliaria
 
 # Table of content
-- Description. A brief description of what the project is about
-- How to Install
-- Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+- [Description](#description)
+- [How to Install](#how-to-install)
+- [Run the Project](#how-to-run-the-project)
+- [How to Use the Project](#how-to-use-the-project)
+- [Credits](#credits)
+- [Badges](#badges)
 
 # Description
 An application that allows a real estate business to showcase available houses for rent to clients, along with their respective information.
