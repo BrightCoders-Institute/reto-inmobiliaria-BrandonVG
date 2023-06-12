@@ -26,6 +26,7 @@ This project can be easily installed by following these steps:
    - For an iOS emulator, run `npx react-native run-ios`
 # How to use the project
 You can view the list of houses registered in the JSON file. Additionally, you can utilize the like button and observe how it changes.
+
 <img src="img/screenshot1.png" alt="Screenshot 1" width="360" height="780">
 <img src="img/screenshot2.png" alt="Screenshot 2" width="360" height="780">
 
